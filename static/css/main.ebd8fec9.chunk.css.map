@@ -1,0 +1,1 @@
+{"version":3,"sources":["D:/qr-read/src/D:/qr-read/src/D:/qr-read/src/styles.scss"],"names":[],"mappings":"AAAA,KACE,sBAAsB,AACtB,eAAe,AACf,kBAAmB,CACpB","file":"main.ebd8fec9.chunk.css","sourcesContent":["body {\n  font-family: monospace;\n  font-size: 18px;\n  background: #ececec;\n}\n"]}
